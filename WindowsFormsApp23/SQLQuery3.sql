@@ -1,0 +1,7 @@
+﻿--select 
+--e.Name as N'Name exams',
+--Res.Grade as N'Grade'
+--from
+--Exams e right join Result Res
+--where 
+--e.Id=Res.ExamId
